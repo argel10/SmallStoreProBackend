@@ -27,17 +27,4 @@ DB_PORT=
 DB_NAME=
 ```
 
-## Contribuciones
 
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama nueva para tus cambios (git checkout -b feature/mi-nueva-funcionalidad).
-3. Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
-4. Envía un pull request.
-
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
